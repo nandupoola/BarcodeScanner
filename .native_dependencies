@@ -1,0 +1,7 @@
+{
+    "react-native-camera": "3.19.2",
+    "@react-native-community/netinfo": "5.9.7",
+    "react-native-view-shot": "3.1.2",
+    "react-native-inappbrowser-reborn": "3.3.4",
+    "@react-native-community/async-storage": "1.12.1"
+}
