@@ -94,5 +94,8 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 6,
+    "runtimeUrl": "https://barcode-dev.rad.adient.com/"
 }
